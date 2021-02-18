@@ -88,3 +88,4 @@ You can also run `make test` and `make test-long` to run the short and full test
 suites, respectively. Finally, `make cover` will generate code coverage reports
 for each package; they are stored in the `cover` folder and can be viewed in
 your browser.
+turtle dex suits efficiently
